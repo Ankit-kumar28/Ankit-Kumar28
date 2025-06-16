@@ -11,7 +11,7 @@
 - ⚛️ Exploring React.js and building cool frontend projects
 - 📱 Also passionate about App Development using React Native**
 - 🎨 Interested in UI/UX Design and love crafting clean, user-friendly interfaces
-- 🧠 Practicing DSA on platforms like [LeetCode](https://leetcode.com/u/Ankit-kumar28/)
+- 🧠 Practicing DSA on platforms like [LeetCode](https://leetcode.com/u/Ankit-kumar_84/)
 - ✨ Fun Fact: I love debugging and crafting clean, functional UIs
 
 ---
@@ -31,10 +31,10 @@
 ### 📫 How to reach me:
 
 <p align="left">
-  <a href="mailto:ankitkumar@gmail.com">
+  <a href="mailto:ankitk123907@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="40"/>
   </a>
-  <a href="https://linkedin.com/in/ankit-kumar28" target="_blank">
+  <a href="https://www.linkedin.com/in/ankit-kumar-348866280" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40"/>
   </a>
   
