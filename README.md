@@ -1,49 +1,58 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
-<h3 align="center">🚀 A passionate MERN Stack Developer in the making, exploring App Development and leveling up in DSA!</h3>
-
-
----
-
-### 🧠 About Me
-
-- 🌱 I’m currently learning Full Stack Web Development (MERN Stack) and App developer 
-- 💡 I'm confident in JavaScript, C++,Dart 
-- ⚛️ Exploring React.js and building cool frontend projects
-- 📱 Also passionate about App Development using React Native**
-- 🎨 Interested in UI/UX Design and love crafting clean, user-friendly interfaces
-- 🧠 Practicing DSA on platforms like [LeetCode](https://leetcode.com/u/Ankit-kumar_84/)
-- ✨ Fun Fact: I love debugging and crafting clean, functional UIs
+<h3 align="center">🚀 Passionate Software Developer | MERN Stack & App Development Enthusiast | Problem Solver</h3>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🧠 About Me  
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+- 🎓 B.Tech student in Information Technology at **KIET Group of Institutions** (CGPA: 8.5)  
+- 🌱 Currently learning **Full Stack Web Development (MERN)** and **Mobile App Development (React Native)**  
+- 💻 Strong foundations in **Data Structures & Algorithms**, with **850+ problems solved** across platforms  
+- ⚙️ Skilled in **JavaScript, C++, Dart**, and passionate about crafting clean, scalable code  
+- 🧩 2× Hackathon Finalist | Core Member of multiple tech clubs (MLSA KIET, CPByte, Technocrats)  
+- ✨ Combining **technical expertise and creativity** to build impactful solutions  
+- 💬 Fun Fact: I enjoy debugging and designing intuitive user experiences!  
+
+---
+
+### 🛠️ Tech Stack & Tools  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+
 ---
-
-### 📫 How to reach me:
-
-<p align="left">
-  <a href="mailto:ankitk123907@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ankit-kumar-348866280" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40"/>
-  </a>
-  
-  
-</p>
 
 
 ---
 
-### ✨ Quote I Live By
 
-> "Stay curious, stay consistent, and growth will follow."
+
+---
+
+### 📫 Connect With Me  
+
+<p align="center">
+  <a href="mailto:ankitk123907@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="40"/></a>
+  <a href="https://www.linkedin.com/in/ankit-kumar84/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40"/></a>
+  <a href="https://github.com/Ankit-kumar28" target="_blank"><img src="https://img.icons8.com/material-rounded/48/000000/github.png" alt="GitHub" height="40"/></a>
+  <a href="https://leetcode.com/u/Ankit-kumar_84/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" height="40"/></a>
+</p>
+
+---
+
+### ✨ Quote I Live By  
+
+> “Stay curious, stay consistent, and growth will follow.”  
+> — Ankit Kumar
