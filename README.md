@@ -6,8 +6,8 @@
 
 ### 🧠 About Me
 
-- 🌱 I’m currently learning Full Stack Web Development (MERN Stack)
-- 💡 I'm confident in HTML, CSS, JavaScript, C++
+- 🌱 I’m currently learning Full Stack Web Development (MERN Stack) and App developer 
+- 💡 I'm confident in JavaScript, C++,Dart 
 - ⚛️ Exploring React.js and building cool frontend projects
 - 📱 Also passionate about App Development using React Native**
 - 🎨 Interested in UI/UX Design and love crafting clean, user-friendly interfaces
