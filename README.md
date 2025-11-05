@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
-<h3 align="center">🚀 Passionate Software Developer | MERN Stack & App Development Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Passionate Software Developer |  App Development Enthusiast </h3>
+
+
+
+
+### 🧠 About Me
+
+- 💻 I’m focused on **Mobile App Development** using **Flutter** and **React Native**
+- 💻 I'm confident with  JavaScript, C++, Dart
+- ⚛️ Learning **MERN Stack** to strengthen my full-stack skills
+- 🧩 Strong foundation in **Data Structures & Algorithms (C++)**
+- 💡 Solved **350+ problems** on [LeetCode](https://leetcode.com/u/Ankit-kumar_84/)
+- ⚙️ Always curious to build creative and scalable digital solutions
 
 ---
-
-### 🧠 About Me  
-
-- 🎓 B.Tech student in Information Technology at **KIET Group of Institutions** (CGPA: 8.5)  
-- 🌱 Currently learning **Full Stack Web Development (MERN)** and **Mobile App Development (React Native)**  
-- 💻 Strong foundations in **Data Structures & Algorithms**, with **850+ problems solved** across platforms  
-- ⚙️ Skilled in **JavaScript, C++, Dart**, and passionate about crafting clean, scalable code  
-- 🧩 2× Hackathon Finalist | Core Member of multiple tech clubs (MLSA KIET, CPByte, Technocrats)  
-- ✨ Combining **technical expertise and creativity** to build impactful solutions  
-- 💬 Fun Fact: I enjoy debugging and designing intuitive user experiences!  
 
 ---
 
