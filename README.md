@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
-<h3 align="center">🚀 Passionate Software Developer |  App Development Enthusiast </h3>
+<h3 align="center">🚀 Passionate Software Developer | App Development Enthusiast</h3>
 
-
-
+---
 
 ### 🧠 About Me
 
-- 💻 I’m focused on **Mobile App Development** using **Flutter** and **React Native**
-- 💻 I'm confident with  JavaScript, C++, Dart
-- ⚛️ Learning **MERN Stack** to strengthen my full-stack skills
-- 🧩 Strong foundation in **Data Structures & Algorithms (C++)**
-- 💡 Solved **350+ problems** on [LeetCode](https://leetcode.com/u/Ankit-kumar_84/)
-- ⚙️ Always curious to build creative and scalable digital solutions
-
----
+- 💻 Focused on **Mobile App Development** using **Flutter** and **React Native**  
+- 💻 Confident with **JavaScript, C++, Dart**  
+- ⚛️ Learning **MERN Stack** to strengthen full-stack skills  
+- 🧩 Strong foundation in **Data Structures & Algorithms (C++)**  
+- 💡 Solved **350+ problems** on [LeetCode](https://leetcode.com/u/Ankit-kumar_84/)  
+- ⚙️ Always curious to build creative and scalable digital solutions  
 
 ---
 
@@ -36,10 +33,20 @@
 
 ---
 
+### 📊 GitHub Stats  
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-kumar28&show_icons=true&theme=radical" alt="GitHub Stats" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-kumar28&theme=radical" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-kumar28&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ankit-kumar28&theme=radical&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
