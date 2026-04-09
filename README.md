@@ -9,7 +9,7 @@
 - 💻 Confident with **JavaScript, C++, Dart**  
 - ⚛️ Learning **MERN Stack** to strengthen full-stack skills  
 - 🧩 Strong foundation in **Data Structures & Algorithms (C++)**  
-- 💡 Solved **350+ problems** on [LeetCode](https://leetcode.com/u/Ankit-kumar_84/)  
+- 💡 Solved **450+ problems** on [LeetCode](https://leetcode.com/u/Ankit-kumar_84/)  
 - ⚙️ Always curious to build creative and scalable digital solutions  
 
 ---
