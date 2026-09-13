@@ -2,7 +2,9 @@
 <h3 align="center">🚀 Passionate Software Developer | App Development Enthusiast</h3>
 
 ---
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
+</p>
 ### 🧠 About Me
 
 - 💻 Focused on **Mobile App Development** using **Flutter** and **React Native**  
